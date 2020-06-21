@@ -3,7 +3,7 @@
 ## English
 
 A simple alerts game.
-With Math.random () the program generates a random number. 
+With Math.random() the program generates a random number. 
 The purpose of the game is for the user to match that number. 
 The game has 3 difficulties. 
 
@@ -26,7 +26,7 @@ https://bit.ly/3ekgKNy
 ## Spanish
 
 Un simple juego de alerts. 
-Con Math.random () el programa genera un número aleatorio.
+Con Math.random() el programa genera un número aleatorio.
 La finalidad del juego es que el usuario acierte ese número.
 El juego cuenta con 3 dificultades.
 
