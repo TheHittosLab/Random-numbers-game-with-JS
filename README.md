@@ -19,6 +19,9 @@ The player has 5 attempts.
 
 The player has 3 attempts.
 
+#### You can see the explanation (spanish) on my YouTube channel:
+
+https://bit.ly/3ekgKNy
 
 ## Spanish
 
@@ -38,3 +41,7 @@ El jugador tiene 5 intentos.
 ### Dificultad difícil:
 
 El jugador tiene 3 intentos.
+
+#### Puedes ver la explicación en mi canal de YouTube:
+
+https://bit.ly/3ekgKNy
