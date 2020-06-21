@@ -31,10 +31,10 @@ El juego cuenta con 3 dificultades.
 
 No hay límite de intentos.
 
-###Dificultad intermedia:
+### Dificultad intermedia:
 
 El jugador tiene 5 intentos.
 
-###Dificultad difícil:
+### Dificultad difícil:
 
 El jugador tiene 3 intentos.
