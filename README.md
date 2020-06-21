@@ -1,6 +1,6 @@
 # Random-numbers-game-with-JS
 
-##English
+## English
 
 A simple alerts game.
 With Math.random () the program generates a random number. 
@@ -20,14 +20,14 @@ The player has 5 attempts.
 The player has 3 attempts.
 
 
-##Spanish
+## Spanish
 
 Un simple juego de alerts. 
 Con Math.random () el programa genera un número aleatorio.
 La finalidad del juego es que el usuario acierte ese número.
 El juego cuenta con 3 dificultades.
 
-###Dificultad fácil:
+### Dificultad fácil:
 
 No hay límite de intentos.
 
